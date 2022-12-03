@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Marcus287
+- 👀 I’m interested in Data Science and AI Enginner
+- 🌱 I’m currently learning using AWS for Machine Learning, utilizing NLP with Transformers, etc
+- 📫 Reach me at michaelnguyen287@gmail.com.
